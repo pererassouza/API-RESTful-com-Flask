@@ -1,0 +1,28 @@
+{
+    "participantes": [
+        {
+            "classe_evento": "vip",
+            "id": 1,
+            "idade": 25,
+            "nome": "Felipe"
+        },
+        {
+            "classe_evento": "pista",
+            "id": 2,
+            "idade": 31,
+            "nome": "Ana"
+        },
+        {
+            "classe_evento": "pista",
+            "id": 3,
+            "idade": 42,
+            "nome": "Carlos"
+        },
+        {
+            "classe_evento": "vip",
+            "id": 4,
+            "idade": 39,
+            "nome": "Cassia"
+        }
+    ]
+}
